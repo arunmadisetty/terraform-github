@@ -1,5 +1,3 @@
 # terraform-github
 
 test
-
-protection
